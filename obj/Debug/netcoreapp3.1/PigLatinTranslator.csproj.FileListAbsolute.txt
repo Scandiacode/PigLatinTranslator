@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.exe
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.deps.json
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.runtimeconfig.json
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.runtimeconfig.dev.json
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.dll
+C:\Users\logan\source\repos\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.pdb
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.AssemblyInfo.cs
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.dll
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.pdb
+C:\Users\logan\source\repos\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.genruntimeconfig.cache
