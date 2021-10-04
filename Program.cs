@@ -15,7 +15,7 @@ namespace PigLatinTranslator
                 Console.WriteLine("Please Enter a Statment to be Translated into Pig Latin:");
                 string userInput = Console.ReadLine();
 
-                Console.WriteLine(VowelMethod(userInput.ToLower()));
+                Console.WriteLine(WordMethod(userInput.ToLower()));
 
                 Console.WriteLine("Do you want to translate another word? (y/n)");
                 string loopAnswer = Console.ReadLine();
@@ -26,13 +26,13 @@ namespace PigLatinTranslator
             }
         }
 
-        public static string VowelMethod(string wordPig)
+        public static string WordMethod(string wordPig)
         {
             string wordWay = "way";
             string wordAy = "ay";
-            char[] mainVowels = { 'a', 'e', 'i', 'o', 'u' };
+            char[] mainText = { 'a', 'e', 'i', 'o', 'u' };
 
-            foreach (char letters in mainVowels)
+            foreach (char letters in mainText)
             {
                 if (wordPig[0] == letters)
                 {
@@ -40,9 +40,9 @@ namespace PigLatinTranslator
                 }
             }
 
-            int startervowel = wordPig.IndexOfAny(mainVowels);
-            string sentChunk = wordPig.Substring(startervowel);
-            string sentChunk2 = wordPig.Substring(0, startervowel);
+            int starterText = wordPig.IndexOfAny(mainText);
+            string sentChunk = wordPig.Substring(starterText);
+            string sentChunk2 = wordPig.Substring(0, starterText);
 
             return sentChunk + sentChunk2 + wordAy;
         }
